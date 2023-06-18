@@ -1,2 +1,2 @@
 # webdev-task-temp-convertor
-project regarding workshop on webdevlopment on temp convertor given by #bharatintern
+project regarding workshop on webdevelopment on temp convertor given by #bharatintern
